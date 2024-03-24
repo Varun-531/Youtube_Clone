@@ -4,3 +4,4 @@ export { default as ChannelDetail } from "./ChannelDetail";
 export { default as SearchFeed } from "./SearchFeed";
 export { default as VedioDetail } from "./VedioDetail";
 export { default as SearchBar } from "./SearchBar";
+// export { default as SideBar } from "./SideBar";
